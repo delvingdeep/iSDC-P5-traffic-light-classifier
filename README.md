@@ -7,9 +7,9 @@ Project components:
 - Pre-processing
 - Feature extraction
 - Classification and visualizing error
-- Evaluate your model
+- Evaluate model
 
-Algorithm accuracy:
+Model accuracy:
 ```
 Accuracy: 0.9023569023569024
 Number of misclassified images = 29 out of 297
